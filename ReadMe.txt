@@ -1,3 +1,13 @@
+******
+Global SMILE dataset is available at "https://www.kaggle.com/datasets/yuxiawhu/smile"
+
+
+******
+If you have used this dataset or code, please cite:
+"Yu Xia, Wei He, Qi Huang, Hongyu Chen, He Huang, Hongyan Zhang, SOSSF: Landsat-8 image synthesis on the blending of Sentinel-1 and MODIS data[J]. TGRS, 2023, preprint." [Under Review]
+
+If you have any question and want raw data or extra data for spatiotemporal fusion (STF), you can contact the author's email address: whuxiayu@whu.edu.cn.
+
 ****Framenwork  and Enviroment: (Keras and Tensorflow)
 
 *****
@@ -10,10 +20,3 @@ Training Process: bash test.sh
 --modelname = 'model name'
 --dataset_dir='dataset path'
 
-******
-Global SMILE dataset is available at "https://www.kaggle.com/datasets/yuxiawhu/smile"
-
-
-******
-If you have used this dataset or code, please cite:
-"Yu Xia, Wei He, Qi Huang, Hongyu Chen, He Huang, Hongyan Zhang, SOSSF: Landsat-8 image synthesis on the blending of Sentinel-1 and MODIS data[J]. TGRS, 2023, preprint." [Under Review]
