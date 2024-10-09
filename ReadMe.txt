@@ -11,6 +11,7 @@ If you have any question and want raw data or extra data for spatiotemporal fusi
 ****Framenwork  and Enviroment: (Keras and Tensorflow)
 
 *****
+Python version=3.6.8
 pip install -r requirements.txt
 
 ******
