@@ -4,6 +4,8 @@ Global SMILE dataset is available at "https://www.kaggle.com/datasets/yuxiawhu/s
 
 ******
 If you have used this dataset or code, please cite:
+Y. Xia, W. He, Q. Huang, H. Chen, H. Huang and H. Zhang, "SOSSF: Landsat-8 Image Synthesis on the Blending of Sentinel-1 and MODIS Data," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-19, 2024, Art no. 5401619, doi: 10.1109/TGRS.2024.3352662.
+
 @ARTICLE{10401024, author={Xia, Yu and He, Wei and Huang, Qi and Chen, Hongyu and Huang, He and Zhang, Hongyan}, journal={IEEE Transactions on Geoscience and Remote Sensing}, title={SOSSF: Landsat-8 Image Synthesis on the Blending of Sentinel-1 and MODIS Data}, year={2024}, volume={62}, number={}, pages={1-19}, keywords={Remote sensing;Earth;Artificial satellites;European Space Agency;Satellite constellations;MODIS;Optical sensors;Attention-based network;spatial–spectral fusion;synthetic aperture radar (SAR)–optical data;worldwide dataset}, doi={10.1109/TGRS.2024.3352662}}
 
 If you have any question and want raw data or extra data for spatiotemporal fusion (STF), you can contact the author's email address: whuxiayu@whu.edu.cn.
